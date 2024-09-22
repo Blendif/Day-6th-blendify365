@@ -44,4 +44,7 @@ module.exports = {
   background-color: #fff;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
 }
-
+.glass-card:hover {
+  transform: translateY(-5px);
+  transition: transform 0.3s ease-in-out;
+}
