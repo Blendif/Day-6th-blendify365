@@ -39,4 +39,9 @@ module.exports = {
   padding: 10px 20px;
   box-shadow: 5px 5px 10px #bcbcbc, -5px -5px 10px #ffffff;
 }
+.blog-card {
+  color: #333;
+  background-color: #fff;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
 
